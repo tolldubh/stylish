@@ -1,0 +1,51 @@
+/* background color */
+.page {
+  			background: #edf1f7 !important;
+}
+
+/* Global font styling */
+body {
+				font-family: Avenir;
+  			text-transform:lowercase;
+  background: #edf1f7 !important;
+  			color:#304769;
+}
+
+/* header styling */
+u {
+  			text-decoration: none !important;
+  			font-family: Avenir Black;
+  			font-size:20px;
+}
+
+/* link styling */
+.content .contentLink {
+  			color: #734d80;
+  			font-family: Monaco;
+  			font-size:13px;
+    		;
+}
+
+/* tag styling */
+.contentTag {
+  			color: #e64d19 !important;
+  			font-family: Monaco;
+  			font-size:13px;
+}
+
+/* bullets */
+
+.bullet {
+    color: #304769;
+}
+
+.keep-bullet {
+  background-color: #b9c8df;
+    color: #304769;
+}
+
+
+
+.expand {
+  color:#304769;
+}
